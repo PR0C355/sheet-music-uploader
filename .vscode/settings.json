@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Tumi\\OneDrive\\Documents\\Java Shit\\servlet-api.jar"
+    ]
+}
